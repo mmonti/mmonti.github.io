@@ -13,8 +13,19 @@
   </url>
   
   <url>
+    <loc>https://mmonti.github.io/my-entry/my-entry/</loc>
+    <lastmod>2018-04-04T10:45:57-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mmonti.github.io/</loc>
     <lastmod>2018-04-04T10:42:19-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmonti.github.io/my-entry/</loc>
+    <lastmod>2018-04-04T10:45:57-06:00</lastmod>
     <priority>0</priority>
   </url>
   
