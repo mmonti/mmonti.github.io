@@ -1,0 +1,63 @@
+baseurl = "https://mmonti.github.io"
+themesDir = "./themes"
+languageCode = "en-us"
+title = "Mauro Monti - Personal Notes"
+theme = "camila-theme"
+
+# Disable comments by leaving disqusShortname empty
+disqusShortname = "mmonti-github-io"
+
+# Enable Git Information
+enableGitInfo = true
+
+[taxonomies]
+  # Optional. Use if you want tags and lists.
+  tags = "tags"
+
+[params]
+	name = "Mauro Monti"
+	description = "Personal Notes"
+	bio = "dad of camila & avery - husband - engineer"
+
+	# Enter optionally your twitter account
+	twitter = "mauro_monti"
+	enableRSS = true
+
+	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
+	# linking local files with their path relative to the static folder, e.g. "css/styles.css"
+	customCSS = ["https://fonts.googleapis.com/css?family=Roboto", "css/custom.css"]
+	customJS  = []
+
+	# The variables below are optionally too and can be used to
+	# translate or customize each string of the theme.
+
+	# Navigation links
+	home = ""
+	subscribe = ""
+
+	# Pagination links
+	olderPosts = ""
+	newerPosts = ""
+	readMore = ""
+	copyright = ""
+
+	# Sharing options and author information in posts
+	aboutAuthor = "I'm a Engineer."
+	professionalTitle = "Software Engineer"
+	tweet = ""
+	share = ""
+
+	# 404 page
+	title404 = ""
+	subtitle404 = ""
+
+# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+iconFont = "mono-social"
+# The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+socialIconStyle = "circle"
+
+# Add additional social link entries underneath
+[social]
+	twitter = "https://twitter.com/mauro_monti"
+	facebook = "https://www.facebook.com/monti.mauro"
+	github = "https://github.com/mmonti"

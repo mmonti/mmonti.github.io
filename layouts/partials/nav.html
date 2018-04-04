@@ -1,0 +1,21 @@
+<nav class="main-nav">
+	{{ if not .IsHome }}
+		<a href='{{ .Site.BaseURL }}'> <span class="arrow">←&nbsp;</span>{{ .Site.Params.home | default "home" }}</a>
+	{{ end }}
+
+	{{ range .Site.Menus.main }}
+ 		<a href='{{ .URL }}'>{{ .Name }}</a>
+	{{ end }}
+	  
+	{{ range .Site.Menus.whoami }}
+		<a href='{{ .URL }}'>whoami</a>	
+	{{ end }}
+	
+	{{ range .Site.Menus.resume }}
+	  <a href='{{ .URL }}'>resume</a>
+	{{ end }}
+
+	{{ if .Site.Params.enableRSS }}
+		<a class="cta" href="{{ .Site.RSSLink }}">{{ .Site.Params.subscribe | default "subscribe" }}</a>
+	{{ end }}
+</nav>
