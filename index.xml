@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mauro Monti - Personal Notes</title>
+    <link>https://mmonti.github.io/</link>
+    <description>Recent content on Mauro Monti - Personal Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Apr 2018 01:00:40 -0600</lastBuildDate>
+    
+	<atom:link href="https://mmonti.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resume</title>
+      <link>https://mmonti.github.io/resume/resume/</link>
+      <pubDate>Wed, 04 Apr 2018 01:00:40 -0600</pubDate>
+      
+      <guid>https://mmonti.github.io/resume/resume/</guid>
+      <description>This is my Resume.</description>
+    </item>
+    
+    <item>
+      <title>Who am I?</title>
+      <link>https://mmonti.github.io/whoami/whoami/</link>
+      <pubDate>Wed, 04 Apr 2018 00:21:43 -0600</pubDate>
+      
+      <guid>https://mmonti.github.io/whoami/whoami/</guid>
+      <description>I am Mauro</description>
+    </item>
+    
+  </channel>
+</rss>

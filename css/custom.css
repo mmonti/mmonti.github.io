@@ -1,0 +1,29 @@
+#wrapper {
+	max-width: 1024px;
+	padding: 10px 40px 100px 40px
+}
+
+.profile #wrapper { 
+	padding: 10px 40px 0px !important 
+}
+
+#post-list a {
+	font: 19px/1.7 'Roboto', sans-serif;
+}
+
+.post header {
+    text-align: left;
+}
+
+.post h2.subtitle {
+    font: italic 19px/1.3em "Helvetica Neue",Helvetica,Arial,sans-serif;
+	color: #bbb;
+	margin-bottom: 20px;
+}
+.post h2.headline-space {
+	margin-top: 10px;
+}
+
+.post {
+    margin: 50px 0 0 0;
+}
