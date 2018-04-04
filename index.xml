@@ -29,15 +29,5 @@
       <description>I am Mauro</description>
     </item>
     
-    <item>
-      <title>My Entry</title>
-      <link>https://mmonti.github.io/my-entry/my-entry/</link>
-      <pubDate>Wed, 04 Apr 2018 00:13:17 -0600</pubDate>
-      
-      <guid>https://mmonti.github.io/my-entry/my-entry/</guid>
-      <description>This is a very long line that will still be quoted properly when it wraps. Oh boy let&amp;rsquo;s keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can put Markdown into a blockquote.
- Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</description>
-    </item>
-    
   </channel>
 </rss>
